@@ -1,0 +1,917 @@
+id,name
+1,Auberry
+2,Bakersfield
+3,Cambria
+4,Castro Valley
+5,Clarksburg
+6,Eureka
+7,Felton
+8,Firebaugh
+9,Fortuna
+10,Kettleman City
+11,Lemoore
+12,Livermore
+13,Merced
+14,Moraga
+15,Napa
+16,Oakland
+17,Olivehurst
+18,Pismo Beach
+19,Placerville
+20,Red Bluff
+21,Rio Vista
+22,Riverdale
+23,Salinas
+24,San Carlos
+25,San Francisco
+26,San Jose
+27,San Leandro
+28,San Luis Obispo
+29,San Mateo
+30,Santa Rosa
+31,Soledad
+32,Valley Springs
+33,Walnut Creek
+34,Woodland
+35,Fresno
+36,Pleasanton
+37,Martinez
+38,Tracy
+39,Moskowite Corner
+40,Atascadero
+41,Chico
+42,Antioch
+43,Campbell
+44,Friant
+45,Dixon
+46,Concord
+47,Berkeley
+48,Paso Robles
+49,Watsonville
+50,Burney
+51,Huron
+52,Santa Maria
+53,Clayton
+54,Palo Cedro
+55,San Bruno
+56,Cottonwood
+57,Clovis
+58,Creston
+59,Guinda
+60,Templeton
+61,Kerman
+62,Alta Sierra
+63,Elkhorn
+64,Orland
+65,Rodeo
+66,Bethel Island
+67,Larkfield-Wikiup
+68,Santa Ynez
+69,Nevada City
+70,Shingletown
+71,Bella Vista
+72,Diamond Springs
+73,Hanford
+74,Highlands-Baywood Park
+75,Lakeport
+76,Madera
+77,Point Arena
+78,Stockton
+79,Tollhouse
+80,Union City
+81,Cloverdale
+82,Geyserville
+83,Grover Beach
+84,Laton
+85,Redding
+86,Willows
+87,Atwater
+88,Centerville
+89,Fowler
+90,Glen Ellen
+91,Lincoln Village
+92,Manchester
+93,Novato
+94,Squaw Valley
+95,Brentwood
+96,Petaluma
+97,Rough and Ready
+98,San Pablo
+99,Sebastopol
+100,Selma
+101,Cameron Park
+102,Oakdale
+103,Redwood Valley
+104,Santa Cruz
+105,Alta
+106,Anderson
+107,Bodega Bay
+108,Calistoga
+109,Coulterville
+110,Discovery Bay
+111,East Richmond Heights
+112,Ferndale
+113,Grass Valley
+114,Lockwood
+115,Manila
+116,Mountain Ranch
+117,Newcastle
+118,West Sacramento
+119,Aptos
+120,Davis
+121,Los Gatos
+122,Philo
+123,Cupertino
+124,Daly City
+125,Los Altos Hills
+126,Lost Hills
+127,MI Wuk Village
+128,North Fork
+129,Sunnyvale
+130,Woodside
+131,Arnold
+132,Colusa
+133,East Foothills
+134,Kensington
+135,Meadow Vista
+136,Orange Cove
+137,Penn Valley
+138,Silverado Resort
+139,Carlotta
+140,Fremont
+141,Menlo Park
+142,Milpitas
+143,Nicolaus
+144,San Rafael
+145,Twain Harte
+146,Camino
+147,Forest Ranch
+148,Occidental
+149,Montgomery Creek
+150,Grizzly Flats
+151,Los Altos
+152,Saratoga
+153,Kentfield
+154,Vallejo
+155,Lafayette
+156,South San Francisco
+157,Belmont
+158,Corralitos
+159,Cutten
+160,Day Valley
+161,Georgetown
+162,Buttonwillow
+163,Monterey
+164,Myrtletown
+165,Oakley
+166,Oroville
+167,Paradise
+168,Clearlake Oaks
+169,Fairfield
+170,Hayward
+171,Wasco
+172,Cold Springs-Tuolumne
+173,Millbrae
+174,Pacifica
+175,Bayview-Montalvin
+176,Crescent Mills
+177,Greenville
+178,Tara Hills
+179,Half Moon Bay
+180,Keswick
+181,Auburn
+182,Brownsville
+183,San Anselmo
+184,Scotts Valley
+185,Vallecito
+186,Seaside
+187,Del Monte Forest
+188,Healdsburg
+189,Sanger
+190,Prunedale
+191,Fort Washington
+192,Winters
+193,Jamestown
+194,Dinuba
+195,Fellows
+196,King City
+197,Los Banos
+198,Marysville
+199,Lathrop
+200,Middletown
+201,Hollister
+202,Rancho Tehama Reserve
+203,Burlingame
+204,Pittsburg
+205,Zenia
+206,Country Club
+207,Garden Valley
+208,Pasatiempo
+209,Phoenix Lake
+210,Manteca
+211,Midpines
+212,Morada
+213,Danville
+214,Forestville
+215,Lagunitas
+216,Lagunitas-Forest Knolls
+217,Orinda
+218,Garberville
+219,Raisin City
+220,Richmond
+221,Somerset
+222,Chowchilla
+223,Gilroy
+224,Lucas Valley-Marinwood
+225,Newark
+226,Fairfax
+227,Castroville
+228,Gustine
+229,Pleasure Point
+230,Arcata
+231,Ben Lomond
+232,Cherryland
+233,Easton
+234,Old Fig Garden
+235,Bootjack
+236,Butte Valley
+237,Lucerne
+238,El Verano
+239,Mill Valley
+240,Thermalito
+241,Boulder Creek
+242,Mountain View
+243,Suisun City
+244,Loyola
+245,Lincoln
+246,Oildale
+247,Pacific Grove
+248,Pine Hills
+249,Orcutt
+250,Big sur
+251,Alamo
+252,Rocklin
+253,Capitola
+254,Soquel
+255,Williams
+256,Redwood City
+257,Myers Flat
+258,Little River
+259,French Gulch
+260,Lompoc
+261,Rackerby
+262,Cazadero
+263,Moss Beach
+264,East Shore
+265,San Simeon
+266,Clearlake
+267,Oak Run
+268,Willow Creek
+269,San Ardo
+270,Shingle Springs
+271,Taylorsville
+272,Cotati
+273,Lake Nacimiento
+274,Clear Creek
+275,Deer Park
+276,McArthur
+277,Pleasant Hill
+278,Pollock Pines
+279,Tiburon
+280,Catheys Valley
+281,Glenn
+282,Kelseyville
+283,Carmel Valley Village
+284,Mariposa
+285,Rancho Calaveras
+286,Rio Oso
+287,Twain
+288,Coarsegold
+289,Corning
+290,Dublin
+291,East Palo Alto
+292,Belden
+293,Browns Valley
+294,Sunol
+295,Sutter Creek
+296,Saint Helena
+297,Shandon
+298,El Dorado Hills
+299,Guerneville
+300,Sleepy Hollow
+301,Angwin
+302,Coultervillle
+303,Ladera
+304,Mi-Wuk Village
+305,San Martin
+306,Knights Landing
+307,Caruthers
+308,Livingston
+309,Fort Bragg
+310,Knightsen
+311,Lake Almanor Country Club
+312,Oakhurst
+313,Hillsborough
+314,Dillon Beach
+315,San Ramon
+316,Nicasio
+317,Corcoran
+318,Fields Landing
+319,Morgan Hill
+320,South Oroville
+321,Oroville East
+322,Tamalpais-Homestead Valley
+323,Nice
+324,Sonoma
+325,El Sobrante
+326,Gerber
+327,Willits
+328,Marina
+329,Pinole
+330,Snelling
+331,Los Osos
+332,Albany
+333,McKinleyville
+334,Santa Venetia
+335,West Point
+336,Edna
+337,Whitmore
+338,Arvin
+339,Avenal
+340,Walnut Grove
+341,Bodega
+342,Windsor
+343,Sunnyside
+344,Yuba City
+345,North Auburn
+346,Reedley
+347,Isleton
+348,Clyde
+349,Raymond
+350,University of California Merced
+351,Roseland
+352,Penryn
+353,Rio Dell
+354,Mc Farland
+355,Newman
+356,El Paso de Robles (Paso Robles)
+357,Applegate
+358,Biggs
+359,Challenge
+360,Jackson
+361,Igo
+362,East Nicolaus
+363,Belvedere
+364,Lodi
+365,Monte Sereno
+366,Ione
+367,Vacaville
+368,Arroyo Grande
+369,Millville
+370,Cayucos
+371,Penngrove
+372,Cold Springs
+373,Greenfield-Kern
+374,Buellton
+375,Foresthill
+376,Loomis
+377,Ukiah
+378,Carmel
+379,Mendocino
+380,Reliez Valley
+381,Petrolia
+382,Larkspur
+383,San Quentin
+384,Sonora
+385,Ahwahnee
+386,Butte City
+387,Corte Madera
+388,Live Oak
+389,Mokelumne Hill
+390,Kingsburg
+391,Dos Palos Y
+392,Fiddletown
+393,Meadow Valley
+394,Dos Palos
+395,Sacramento
+396,South Taft
+397,Mayfair
+398,Palo Alto
+399,Long Barn
+400,Columbia
+401,Lower Lake
+402,Inverness
+403,Taft
+404,Fall River Mills
+405,North Fair Oaks
+406,Gonzales
+407,Fairmead
+408,Lake California
+409,Trowbridge
+410,Pleasant Grove
+411,Woodacre
+412,Morro Bay
+413,Nipomo
+414,Lamont
+415,Bay Point
+416,August
+417,San Joaquin
+418,Coalinga
+419,Plymouth
+420,Garden Acres
+421,La Selva Beach
+422,El Portal
+423,Escalon
+424,Traver
+425,Berry Creek
+426,El Granada
+427,El Cerrito
+428,Twin Lakes
+429,Smartsville
+430,Blue Lake
+431,Durham
+432,Martell
+433,Pine Grove
+434,Pine Mountain Lake
+435,Fish Camp
+436,Colfax
+437,Tuolumne City
+438,Guadalupe
+439,Jenner
+440,Loleta
+441,Boyes Hot Springs
+442,Dunnigan
+443,McFarland
+444,El Dorado
+445,Esparto
+446,Solvang
+447,Buckhorn
+448,Shafter
+449,Vandenberg Village
+450,Callender
+451,Rohnert Park
+452,Emerald Lake Hills
+453,Madera Acres
+454,Lebec
+455,Live Oak-Santa Cruz
+456,Minkler
+457,Arbuckle
+458,Zamora
+459,Los Ranchos
+460,Pioneer
+461,Greenacres
+462,Yosemite Lakes
+463,Crockett
+464,Paynes Creek
+465,Waukena
+466,Tulare
+467,Franklin
+468,Twin Bridges
+469,Taft Heights
+470,Santa Margarita
+471,Marshall
+472,Gridley
+473,Cassel
+474,Lompico
+475,Aptos Hills-Larkin Valley
+476,Parlier
+477,Linda
+478,Seacliff
+479,Butte Creek Canyon
+480,Zayante
+481,Magalia
+482,Roseville
+483,Sierra City
+484,Los Olivos
+485,American Canyon
+486,Aromas
+487,Hoopa
+488,Muir Beach
+489,Redway
+490,Rio del Mar
+491,Alum Rock
+492,Mendota
+493,Hamilton City
+494,Cohasset
+495,Mc Kittrick
+496,Angels Camp
+497,Norden
+498,Orick
+499,Riverbank
+500,Concow
+501,Yankee Hill
+502,Butte Meadows
+503,Cherokee
+504,Forbestown
+505,Stirling City
+506,Los Molinos
+507,Farmington
+508,Pescadero
+509,Blackhawk
+510,Bradley
+511,Rosedale
+512,Oceano
+513,Camptonville
+514,Salyer
+515,Montalvin Manor
+516,Moss Landing
+517,San Juan Bautista
+518,Interlaken
+519,Angels
+520,Bonadelle Ranchos-Madera Ranchos
+521,Bangor
+522,Brooktrails
+523,Atherton
+524,Dorrington
+525,Carmet
+526,Wheatland
+527,Meridian
+528,Wishon
+529,Rollingwood
+530,Salmon Creek
+531,Granite Bay
+532,Kenwood
+533,Strawberry
+534,Winton
+535,Dobbins
+536,San Andreas
+537,Elverta
+538,Humboldt Hill
+539,Foster City
+540,Linden
+541,Bolinas
+542,Kingvale
+543,Westport
+544,French Camp
+545,Fetters Hot Springs-Agua Caliente
+546,La Vina
+547,Burbank
+548,Alhambra Valley
+549,Sierra Village
+550,Brookdale
+551,Bonny Doon
+552,El Nido
+553,Maricopa
+554,Waterford
+555,Las Lomas
+556,Hydesville
+557,Montara
+558,Lakehead
+559,Fuller Acres
+560,Rescue
+561,Sausalito
+562,Fairview
+563,Round Mountain
+564,Shaver Lake
+565,Ripon
+566,Amesti
+567,Taft Mosswood
+568,Seville
+569,Saranap
+570,Carmel Valley
+571,Palermo
+572,Copperopolis
+573,Pilot Hill
+574,Kyburz
+575,Alderpoint
+576,Acampo
+577,College City
+578,Monson
+579,Cuyama
+580,Upper Lake
+581,Mount Hamilton
+582,Potter Valley
+583,San Miguel
+584,West Park
+585,Kelly Ridge
+586,Oakville
+587,Mountain Gate
+588,Shasta
+589,Leggett
+590,Madison
+591,Stonyford
+592,Hidden Valley Lake
+593,Las Flores
+594,Piercy
+595,Benbow
+596,Bucks Lake
+597,Clearlake Riviera
+598,Cobb
+599,Kneeland
+600,Miranda
+601,Phillipsville
+602,Pope Valley
+603,Redcrest
+604,Tehama
+605,Indianola
+606,Hartley
+607,Trinidad
+608,Elk Creek
+609,Marin City
+610,North Lakeport
+611,Bayside
+612,Bayview/Pine Hill
+613,Fieldbrook
+614,Green Valley
+615,Korbel
+616,Mineral
+617,Samoa
+618,Westhaven-Moonstone
+619,Bend
+620,Bridgeville
+621,Burnt Ranch
+622,Manton
+623,Old Station
+624,Red Corral
+625,Scotia
+626,Soda Bay
+627,Glenhaven
+628,Mad River
+629,Platina
+630,Ruth
+631,Shasta Lake
+632,Wilseyville
+633,Alleghany
+634,Big Bend
+635,Challenge-Brownsville
+636,Lake Wildwood
+637,Pike
+638,Annapolis
+639,Drytown
+640,Hopland
+641,Loma Rica
+642,Trinity Village
+643,Weott
+644,Coloma
+645,Lotus
+646,North San Juan
+647,Cool
+648,Yountville
+649,Auburn Lake Trails
+650,Greenwood
+651,Soda Springs
+652,Dutch Flat
+653,Truckee
+654,Downieville
+655,Calpine
+656,Camanche North Shore
+657,Volcano
+658,Strawberry Valley
+659,Whitethorn
+660,Calpella
+661,Talmage
+662,Orleans
+663,Sutter
+664,Kennedy
+665,Stinson Beach
+666,Allendale
+667,Rutherford
+668,Thornton
+669,Cutler
+670,San Miguel-Walnut Creek
+671,Sheridan
+672,Grimes
+673,Cressey
+674,Lexington Hills
+675,Mission Hills
+676,Murphys
+677,Patterson
+678,Stevinson
+679,Bear Valley - Hwy 4
+680,East Sonora
+681,Lake Don Pedro
+682,Le Grand
+683,Tuttletown
+684,Artois
+685,Brooks
+686,Capay
+687,Groveland
+688,Soulsbyville
+689,Honcut
+690,Mono Vista
+691,Tuolumne
+692,Forest Meadows
+693,La Grange
+694,Witter Springs
+695,Glencoe
+696,Greeley Hill
+697,Lake of the Pines
+698,Rail Road Flat
+699,Piedmont
+700,Davenport
+701,Mount Hermon
+702,Portola Valley
+703,Contra Costa Centre
+704,La Honda
+705,Loma Mar
+706,San Gregorio
+707,Diablo
+708,Caliente
+709,East Quincy
+710,Freedom
+711,Paradise Park
+712,Norris Canyon
+713,San Lorenzo
+714,Rosamond
+715,Carmel-by-the-Sea
+716,Pajaro Dunes
+717,Laytonville
+718,La Porte
+719,Ford City
+720,Hercules
+721,Bass Lake
+722,Fulton
+723,Tarpey Village
+724,Black Point-Green Point
+725,Courtland
+726,Graton
+727,Orosi
+728,Lodoga
+729,Brisbane
+730,Princeton
+731,Comptche
+732,Paicines
+733,Woodlake
+734,Galt
+735,Cleone
+736,Boronda
+737,North Richmond
+738,River Pines
+739,Gualala
+740,Planada
+741,Westwood
+742,Plumas Lake
+743,Prather
+744,Wawona
+745,West Menlo Park
+746,Monte Rio
+747,Three Rocks
+748,Benicia
+749,Miramonte
+750,Lockeford
+751,Emeryville
+752,Santa Barbara
+753,Pine Canyon
+754,Mountain View-Martinez
+755,Avilla Beach
+756,Quincy
+757,Santa Nella
+758,Ashland
+759,McSwain
+760,Timber Cove
+761,Pacheco
+762,Dogtown
+763,Point Reyes Station
+764,Delft Colony
+765,Blocksburg
+766,Branscomb
+767,Greenfield
+768,Avery
+769,Kings Canyon National Pk
+770,Sereno del Mar
+771,Boonville
+772,Proberta
+773,Maxwell
+774,Los Berros
+775,Rumsey
+776,Bieber
+777,Pajaro
+778,Caspar
+779,Earlimart
+780,Tomales
+781,Coyote
+782,Victor
+783,Amador City
+784,Caribou
+785,Byron
+786,Chester
+787,Del Rey
+788,Indian Falls
+789,Albion
+790,Castle Hill
+791,Visalia
+792,Goodyears Bar
+793,Washington
+794,Stratford
+795,Oregon House
+796,Vine Hill
+797,Sea Ranch
+798,Acalanes Ridge
+799,Covelo
+800,Frazier Park
+801,Lake Almanor Peninsula
+802,Robinson Mill
+803,Gold Run
+804,Casmalia
+805,Richfield
+806,Ross
+807,Tupman
+808,Woodlands
+809,Bloomfield
+810,Biola
+811,San Geronimo
+812,Dos Rios
+813,Yorkville
+814,Elk
+815,Vina
+816,Emigrant Gap
+817,Anchor Bay
+818,Belvedere Tiburon
+819,Shell Ridge
+820,Greenbrae
+821,Chualar
+822,Bear Valley - Hwy 49
+823,Cambrian Park
+824,Calwa
+825,Collierville
+826,Travis AFB
+827,Woodbridge
+828,Monument Hills
+829,Ballico
+830,Nipinnawasee
+831,O Neals
+832,Valley Ford
+833,Vernalis
+834,Grayson
+835,Canyon Dam
+836,Hamilton Branch
+837,Janesville
+838,Lake Almanor West
+839,Mill Creek
+840,Canyondam
+841,Peters
+842,Terminous
+843,Ballard
+844,Tuttle
+845,Cedar Ridge
+846,Yolo
+847,Los Alamos
+848,Wallace
+849,Fruitdale
+850,Smith Corner
+851,Mettler
+852,Echo Lake
+853,Broadmoor
+854,Paskenta
+855,Eldridge
+856,Waterloo
+857,Port Costa
+858,Badger
+859,Nord
+860,Rolling Hills
+861,North Gate
+862,Whitley Gardens
+863,Stanford
+864,Cantua Creek
+865,Colma
+866,Hume
+867,Modesto
+868,Westley
+869,East Oakdale
+870,Strawberry-Tuolumne
+871,Garden Farms
+872,Malaga
+873,Allensworth
+874,Goleta
+875,Volta
+876,Oak Shores
+877,Robbins
+878,Birds Landing
+879,Tranquillity
+880,San Lucas
+881,New Cuyama
+882,Ridgemark
+883,Del Rey Oaks
+884,Parksdale
+885,Sand City
+886,Parkwood
+887,Harmony
+888,Crows Landing
+889,Camino Tassajara
+890,Lanare
+891,Alto
+892,Big Lagoon
+893,Tres Pinos
+894,Pixley
+895,Dunlap
+896,Wilsonia
+897,Hartland
+898,Spreckels
+899,Buck Meadows
+900,Delano
+901,South Lake Tahoe
+902,South Dos Palos
+903,Sisquoc
+904,Alpaugh
+905,Blacklake
+906,Buena Vista
+907,Camanche Village
+908,Hat Creek
+909,Helm
+910,Somes Bar
+911,Weedpatch
+912,Bowles
+913,London
+914,Flournoy
+915,Tobin
+916,Dustin Acres

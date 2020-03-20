@@ -1,0 +1,10 @@
+id,name
+1,Unknown - Utility will be assessing the cause.
+2,Our preliminary determination is that your outage was caused by an equipment issue.
+3,Our preliminary determination is that your outage was caused by scheduled maintenance work.
+4,Our preliminary determination is that your outage was caused by an emergency issue.
+5,Our preliminary determination is that your outage was caused by a car that hit a pole.
+6,Utility is investigating the cause of your outage.
+7,We are clearing vegetation to address potential safety risks in your area.
+8,Our preliminary determination is that your outage was caused by the weather.
+9,"To protect public safety, power in your area has been turned off due to extreme weather conditions with high fire danger. Power will be restored as soon as it is safe to do so."

@@ -1,0 +1,917 @@
+region,outages
+Acalanes Ridge,1
+Acampo,20
+Ahwahnee,30
+Alamo,92
+Albany,84
+Albion,7
+Alderpoint,20
+Alhambra Valley,13
+Alleghany,19
+Allendale,19
+Allensworth,0
+Alpaugh,0
+Alta,234
+Alta Sierra,252
+Alto,0
+Alum Rock,27
+Amador City,7
+American Canyon,20
+Amesti,44
+Anchor Bay,6
+Anderson,85
+Angels,6
+Angels Camp,10
+Angwin,190
+Annapolis,19
+Antioch,153
+Applegate,166
+Aptos,112
+Aptos Hills-Larkin Valley,46
+Arbuckle,48
+Arcata,183
+Arnold,244
+Aromas,2
+Arroyo Grande,83
+Artois,0
+Arvin,125
+Ashland,13
+Atascadero,104
+Atherton,3
+Atwater,238
+Auberry,180
+Auburn,209
+Auburn Lake Trails,19
+August,42
+Avenal,40
+Avery,0
+Avilla Beach,45
+Badger,2
+Bakersfield,120
+Ballard,0
+Ballico,0
+Bangor,24
+Bass Lake,6
+Bay Point,30
+Bayside,8
+Bayview-Montalvin,99
+Bayview/Pine Hill,8
+Bear Valley - Hwy 4,0
+Bear Valley - Hwy 49,0
+Belden,66
+Bella Vista,125
+Belmont,71
+Belvedere,43
+Belvedere Tiburon,0
+Ben Lomond,102
+Benbow,19
+Bend,0
+Benicia,13
+Berkeley,152
+Berry Creek,4
+Bethel Island,252
+Bieber,0
+Big Bend,0
+Big Lagoon,0
+Big sur,53
+Biggs,166
+Biola,2
+Birds Landing,0
+Black Point-Green Point,13
+Blackhawk,15
+Blacklake,0
+Blocksburg,0
+Bloomfield,0
+Blue Lake,37
+Bodega,51
+Bodega Bay,91
+Bolinas,1
+Bonadelle Ranchos-Madera Ranchos,11
+Bonny Doon,45
+Boonville,7
+Bootjack,109
+Boronda,1
+Boulder Creek,132
+Bowles,0
+Boyes Hot Springs,26
+Bradley,2
+Branscomb,7
+Brentwood,237
+Bridgeville,4
+Brisbane,2
+Broadmoor,0
+Brookdale,12
+Brooks,19
+Brooktrails,23
+Browns Valley,192
+Brownsville,209
+Buck Meadows,0
+Buckhorn,47
+Bucks Lake,0
+Buellton,34
+Buena Vista,0
+Burbank,12
+Burlingame,75
+Burney,134
+Burnt Ranch,4
+Butte City,49
+Butte Creek Canyon,2
+Butte Meadows,0
+Butte Valley,84
+Buttonwillow,100
+Byron,1
+Caliente,45
+Calistoga,234
+Callender,46
+Calpella,19
+Calpine,19
+Calwa,2
+Camanche North Shore,19
+Camanche Village,0
+Cambria,155
+Cambrian Park,0
+Cameron Park,234
+Camino,211
+Camino Tassajara,0
+Campbell,183
+Camptonville,24
+Cantua Creek,0
+Canyon Dam,0
+Canyondam,0
+Capay,19
+Capitola,92
+Caribou,0
+Carlotta,212
+Carmel,7
+Carmel Valley,1
+Carmel Valley Village,50
+Carmel-by-the-Sea,1
+Carmet,3
+Caruthers,93
+Casmalia,0
+Caspar,7
+Cassel,3
+Castle Hill,1
+Castro Valley,148
+Castroville,63
+Catheys Valley,89
+Cayucos,36
+Cazadero,196
+Cedar Ridge,0
+Centerville,156
+Challenge,165
+Challenge-Brownsville,19
+Cherokee,0
+Cherryland,98
+Chester,0
+Chico,133
+Chowchilla,113
+Chualar,0
+Clarksburg,226
+Clayton,152
+Clear Creek,71
+Clearlake,195
+Clearlake Oaks,211
+Clearlake Riviera,19
+Cleone,19
+Cloverdale,241
+Clovis,166
+Clyde,80
+Coalinga,6
+Coarsegold,95
+Cobb,19
+Cohasset,1
+Cold Springs,141
+Cold Springs-Tuolumne,80
+Colfax,47
+College City,20
+Collierville,6
+Colma,0
+Coloma,19
+Columbia,43
+Colusa,244
+Comptche,19
+Concord,152
+Concow,0
+Contra Costa Centre,13
+Cool,19
+Copperopolis,2
+Corcoran,54
+Corning,66
+Corralitos,100
+Corte Madera,9
+Cotati,91
+Cottonwood,134
+Coulterville,226
+Coultervillle,151
+Country Club,187
+Courtland,19
+Covelo,7
+Coyote,2
+Crescent Mills,78
+Cressey,5
+Creston,104
+Crockett,25
+Crows Landing,0
+Cupertino,169
+Cutler,5
+Cutten,184
+Cuyama,2
+Daly City,94
+Danville,102
+Davenport,45
+Davis,234
+Day Valley,100
+Deer Park,191
+Del Monte Forest,61
+Del Rey,2
+Del Rey Oaks,0
+Delano,0
+Delft Colony,2
+Diablo,13
+Diamond Springs,246
+Dillon Beach,53
+Dinuba,108
+Discovery Bay,167
+Dixon,251
+Dobbins,20
+Dogtown,19
+Dorrington,24
+Dos Palos,33
+Dos Palos Y,44
+Dos Rios,6
+Downieville,19
+Drytown,19
+Dublin,86
+Dunlap,0
+Dunnigan,46
+Durham,4
+Dustin Acres,0
+Dutch Flat,19
+Earlimart,1
+East Foothills,172
+East Nicolaus,165
+East Oakdale,0
+East Palo Alto,126
+East Quincy,0
+East Richmond Heights,143
+East Shore,68
+East Sonora,5
+Easton,109
+Echo Lake,0
+Edna,90
+El Cerrito,35
+El Dorado,47
+El Dorado Hills,192
+El Granada,10
+El Nido,2
+El Paso de Robles (Paso Robles),36
+El Portal,1
+El Sobrante,86
+El Verano,95
+Eldridge,0
+Elk,6
+Elk Creek,0
+Elkhorn,105
+Elverta,20
+Emerald Lake Hills,7
+Emeryville,13
+Emigrant Gap,6
+Escalon,47
+Esparto,47
+Eureka,231
+Fairfax,70
+Fairfield,211
+Fairmead,32
+Fairview,13
+Fall River Mills,1
+Farmington,6
+Fellows,101
+Felton,129
+Ferndale,222
+Fetters Hot Springs-Agua Caliente,13
+Fiddletown,48
+Fieldbrook,8
+Fields Landing,157
+Firebaugh,155
+Fish Camp,25
+Flournoy,0
+Forbestown,24
+Ford City,45
+Forest Meadows,6
+Forest Ranch,80
+Foresthill,141
+Forestville,217
+Fort Bragg,198
+Fort Washington,108
+Fortuna,229
+Foster City,1
+Fowler,154
+Franklin,35
+Frazier Park,0
+Freedom,45
+Fremont,163
+French Camp,2
+French Gulch,68
+Fresno,162
+Friant,166
+Fruitdale,0
+Fuller Acres,44
+Fulton,19
+Galt,19
+Garberville,217
+Garden Acres,41
+Garden Farms,9
+Garden Valley,217
+Georgetown,209
+Gerber,61
+Geyserville,241
+Gilroy,143
+Glen Ellen,145
+Glencoe,19
+Glenhaven,19
+Glenn,194
+Gold Run,6
+Goleta,0
+Gonzales,5
+Goodyears Bar,7
+Granite Bay,21
+Grass Valley,233
+Graton,13
+Grayson,0
+Greeley Hill,6
+Green Valley,14
+Greenacres,46
+Greenbrae,0
+Greenfield,1
+Greenfield-Kern,76
+Greenville,78
+Greenwood,19
+Gridley,47
+Grimes,19
+Grizzly Flats,216
+Groveland,6
+Grover Beach,133
+Guadalupe,48
+Gualala,19
+Guerneville,192
+Guinda,250
+Gustine,187
+Half Moon Bay,70
+Hamilton Branch,0
+Hamilton City,1
+Hanford,164
+Harmony,0
+Hartland,0
+Hartley,22
+Hat Creek,0
+Hayward,105
+Healdsburg,212
+Helm,0
+Hercules,13
+Hidden Valley Lake,19
+Highlands-Baywood Park,105
+Hillsborough,53
+Hollister,60
+Honcut,19
+Hoopa,27
+Hopland,19
+Humboldt Hill,2
+Hume,0
+Huron,166
+Hydesville,2
+Igo,54
+Indian Falls,0
+Indianola,8
+Interlaken,45
+Inverness,9
+Ione,165
+Isleton,175
+Jackson,165
+Jamestown,189
+Janesville,0
+Jenner,7
+Kelly Ridge,19
+Kelseyville,194
+Kennedy,5
+Kensington,151
+Kentfield,80
+Kenwood,21
+Kerman,174
+Keswick,78
+Kettleman City,94
+King City,60
+Kings Canyon National Pk,2
+Kingsburg,31
+Kingvale,20
+Kneeland,6
+Knights Landing,191
+Knightsen,198
+Korbel,8
+Kyburz,20
+La Grange,6
+La Honda,2
+La Porte,19
+La Selva Beach,47
+La Vina,3
+Ladera,126
+Lafayette,100
+Lagunitas,78
+Lagunitas-Forest Knolls,76
+Lake Almanor Country Club,69
+Lake Almanor Peninsula,0
+Lake Almanor West,0
+Lake California,1
+Lake Don Pedro,5
+Lake Nacimiento,52
+Lake Wildwood,19
+Lake of the Pines,19
+Lakehead,0
+Lakeport,250
+Lamont,46
+Lanare,0
+Larkfield-Wikiup,251
+Larkspur,9
+Las Flores,0
+Las Lomas,1
+Lathrop,188
+Laton,156
+Laytonville,19
+Le Grand,5
+Lebec,28
+Leggett,19
+Lemoore,163
+Lexington Hills,13
+Lincoln,197
+Lincoln Village,238
+Linda,46
+Linden,2
+Little River,195
+Live Oak,49
+Live Oak-Santa Cruz,46
+Livermore,166
+Livingston,151
+Lockeford,19
+Lockwood,79
+Lodi,135
+Lodoga,19
+Loleta,35
+Loma Mar,2
+Loma Rica,19
+Lompico,28
+Lompoc,54
+London,0
+Long Barn,1
+Loomis,142
+Los Alamos,0
+Los Altos,144
+Los Altos Hills,168
+Los Banos,189
+Los Berros,44
+Los Gatos,167
+Los Molinos,0
+Los Olivos,6
+Los Osos,42
+Los Ranchos,46
+Lost Hills,81
+Lotus,19
+Lower Lake,48
+Loyola,129
+Lucas Valley-Marinwood,100
+Lucerne,207
+MI Wuk Village,85
+Mad River,4
+Madera,164
+Madera Acres,21
+Madison,19
+Magalia,1
+Malaga,0
+Manchester,238
+Manila,223
+Manteca,187
+Manton,0
+Maricopa,1
+Marin City,2
+Marina,44
+Mariposa,93
+Marshall,6
+Martell,47
+Martinez,153
+Marysville,218
+Maxwell,7
+Mayfair,32
+Mc Farland,36
+Mc Kittrick,45
+McArthur,66
+McFarland,4
+McKinleyville,147
+McSwain,0
+Meadow Valley,1
+Meadow Vista,238
+Mendocino,49
+Mendota,19
+Menlo Park,90
+Merced,231
+Meridian,21
+Mettler,0
+Mi-Wuk Village,151
+Middletown,218
+Midpines,107
+Mill Creek,0
+Mill Valley,62
+Millbrae,70
+Millville,52
+Milpitas,151
+Mineral,0
+Minkler,23
+Miramonte,5
+Miranda,19
+Mission Hills,2
+Modesto,0
+Mokelumne Hill,49
+Mono Vista,6
+Monson,5
+Montalvin Manor,15
+Montara,1
+Monte Rio,19
+Monte Sereno,108
+Monterey,63
+Montgomery Creek,83
+Monument Hills,6
+Morada,187
+Moraga,146
+Morgan Hill,131
+Morro Bay,5
+Moskowite Corner,252
+Moss Beach,54
+Moss Landing,2
+Mount Hamilton,12
+Mount Hermon,45
+Mountain Gate,0
+Mountain Ranch,224
+Mountain View,132
+Mountain View-Martinez,13
+Muir Beach,6
+Murphys,5
+Myers Flat,195
+Myrtletown,185
+Napa,146
+Nevada City,247
+New Cuyama,0
+Newark,140
+Newcastle,234
+Newman,135
+Nicasio,53
+Nice,191
+Nicolaus,212
+Nipinnawasee,2
+Nipomo,46
+Nord,0
+Norden,32
+Norris Canyon,13
+North Auburn,176
+North Fair Oaks,9
+North Fork,137
+North Gate,0
+North Lakeport,22
+North Richmond,13
+North San Juan,19
+Novato,144
+O Neals,2
+Oak Run,70
+Oak Shores,0
+Oakdale,233
+Oakhurst,97
+Oakland,151
+Oakley,211
+Oakville,19
+Occidental,110
+Oceano,45
+Oildale,93
+Old Fig Garden,109
+Old Station,0
+Olivehurst,227
+Orange Cove,135
+Orcutt,54
+Oregon House,7
+Orick,8
+Orinda,102
+Orland,142
+Orleans,5
+Orosi,6
+Oroville,211
+Oroville East,193
+Pacheco,13
+Pacific Grove,53
+Pacifica,70
+Paicines,1
+Pajaro,44
+Pajaro Dunes,45
+Palermo,20
+Palo Alto,36
+Palo Cedro,134
+Paradise,80
+Paradise Park,45
+Parksdale,0
+Parkwood,0
+Parlier,21
+Pasatiempo,104
+Paskenta,0
+Paso Robles,104
+Patterson,5
+Paynes Creek,3
+Penn Valley,238
+Penngrove,73
+Penryn,167
+Pescadero,4
+Petaluma,146
+Peters,0
+Petrolia,49
+Phillipsville,19
+Philo,235
+Phoenix Lake,187
+Piedmont,12
+Piercy,19
+Pike,19
+Pilot Hill,20
+Pine Canyon,1
+Pine Grove,47
+Pine Hills,165
+Pine Mountain Lake,37
+Pinole,84
+Pioneer,48
+Pismo Beach,131
+Pittsburg,102
+Pixley,0
+Placerville,226
+Planada,6
+Platina,0
+Pleasant Grove,48
+Pleasant Hill,87
+Pleasanton,188
+Pleasure Point,103
+Plumas Lake,19
+Plymouth,48
+Point Arena,250
+Point Reyes Station,0
+Pollock Pines,191
+Pope Valley,22
+Port Costa,0
+Portola Valley,2
+Potter Valley,19
+Prather,5
+Princeton,19
+Proberta,0
+Prunedale,56
+Quincy,0
+Rackerby,195
+Rail Road Flat,19
+Raisin City,108
+Rancho Calaveras,160
+Rancho Tehama Reserve,82
+Raymond,88
+Red Bluff,107
+Red Corral,19
+Redcrest,8
+Redding,113
+Redway,37
+Redwood City,54
+Redwood Valley,234
+Reedley,92
+Reliez Valley,40
+Rescue,20
+Richfield,0
+Richmond,102
+Ridgemark,0
+Rio Dell,135
+Rio Oso,195
+Rio Vista,226
+Rio del Mar,45
+Ripon,2
+River Pines,19
+Riverbank,8
+Riverdale,152
+Robbins,0
+Robinson Mill,6
+Rocklin,197
+Rodeo,154
+Rohnert Park,26
+Rolling Hills,1
+Rollingwood,14
+Rosamond,16
+Rosedale,45
+Roseland,79
+Roseville,39
+Ross,0
+Rough and Ready,236
+Round Mountain,0
+Rumsey,7
+Ruth,4
+Rutherford,19
+Sacramento,48
+Saint Helena,192
+Salinas,88
+Salmon Creek,2
+Salyer,6
+Samoa,4
+San Andreas,2
+San Anselmo,69
+San Ardo,52
+San Bruno,109
+San Carlos,65
+San Francisco,65
+San Geronimo,0
+San Gregorio,2
+San Joaquin,30
+San Jose,175
+San Juan Bautista,2
+San Leandro,154
+San Lorenzo,13
+San Lucas,0
+San Luis Obispo,130
+San Martin,126
+San Mateo,99
+San Miguel,1
+San Miguel-Walnut Creek,12
+San Pablo,146
+San Quentin,40
+San Rafael,112
+San Ramon,86
+San Simeon,95
+Sand City,0
+Sanger,113
+Santa Barbara,2
+Santa Cruz,109
+Santa Margarita,46
+Santa Maria,136
+Santa Nella,0
+Santa Rosa,154
+Santa Venetia,84
+Santa Ynez,109
+Saranap,13
+Saratoga,144
+Sausalito,1
+Scotia,4
+Scotts Valley,135
+Sea Ranch,7
+Seacliff,46
+Seaside,58
+Sebastopol,146
+Selma,144
+Sereno del Mar,0
+Seville,3
+Shafter,46
+Shandon,47
+Shasta,0
+Shasta Lake,0
+Shaver Lake,3
+Shell Ridge,0
+Sheridan,19
+Shingle Springs,196
+Shingletown,139
+Sierra City,39
+Sierra Village,2
+Silverado Resort,238
+Sisquoc,9
+Sleepy Hollow,54
+Smartsville,47
+Smith Corner,39
+Snelling,147
+Soda Bay,19
+Soda Springs,19
+Soledad,96
+Solvang,7
+Somerset,213
+Somes Bar,9
+Sonoma,86
+Sonora,46
+Soquel,92
+Soulsbyville,6
+South Dos Palos,0
+South Lake Tahoe,0
+South Oroville,196
+South San Francisco,71
+South Taft,46
+Spreckels,0
+Squaw Valley,152
+Stanford,0
+Stevinson,5
+Stinson Beach,2
+Stirling City,0
+Stockton,239
+Stonyford,19
+Stratford,1
+Strawberry,1
+Strawberry Valley,19
+Strawberry-Tuolumne,0
+Suisun City,195
+Sunnyside,91
+Sunnyvale,171
+Sunol,126
+Sutter,19
+Sutter Creek,192
+Taft,46
+Taft Heights,46
+Taft Mosswood,2
+Talmage,19
+Tamalpais-Homestead Valley,53
+Tara Hills,99
+Tarpey Village,6
+Taylorsville,70
+Tehama,0
+Templeton,105
+Terminous,0
+Thermalito,207
+Thornton,19
+Three Rocks,5
+Tiburon,53
+Timber Cove,19
+Tobin,0
+Tollhouse,156
+Tomales,0
+Tracy,246
+Tranquillity,0
+Traver,33
+Travis AFB,6
+Tres Pinos,0
+Trinidad,8
+Trinity Village,3
+Trowbridge,48
+Truckee,19
+Tulare,3
+Tuolumne,6
+Tuolumne City,37
+Tupman,40
+Tuttle,0
+Tuttletown,5
+Twain,66
+Twain Harte,200
+Twin Bridges,47
+Twin Lakes,48
+Ukiah,117
+Union City,149
+University of California Merced,136
+Upper Lake,19
+Vacaville,165
+Vallecito,182
+Vallejo,107
+Valley Ford,0
+Valley Springs,243
+Vandenberg Village,7
+Vernalis,0
+Victor,7
+Vina,0
+Vine Hill,1
+Visalia,2
+Volcano,19
+Volta,0
+Wallace,0
+Walnut Creek,155
+Walnut Grove,180
+Wasco,101
+Washington,7
+Waterford,2
+Waterloo,0
+Watsonville,104
+Waukena,3
+Wawona,0
+Weedpatch,0
+Weott,3
+West Menlo Park,2
+West Park,5
+West Point,181
+West Sacramento,234
+Westhaven-Moonstone,4
+Westley,0
+Westport,20
+Westwood,0
+Wheatland,21
+Whitethorn,19
+Whitley Gardens,0
+Whitmore,61
+Williams,196
+Willits,191
+Willow Creek,165
+Willows,245
+Wilseyville,19
+Wilsonia,0
+Windsor,180
+Winters,217
+Winton,2
+Wishon,6
+Witter Springs,19
+Woodacre,8
+Woodbridge,6
+Woodlake,6
+Woodland,252
+Woodlands,40
+Woodside,97
+Yankee Hill,0
+Yolo,0
+Yorkville,6
+Yosemite Lakes,23
+Yountville,19
+Yuba City,181
+Zamora,48
+Zayante,27
+Zenia,217
